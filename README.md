@@ -40,48 +40,19 @@ The goal is not just design — but to demonstrate real-world frontend engineeri
 </p>
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-⚛️ React.js
+- <a href="https://greensock.com/gsap/" target="_blank"><img src="https://img.shields.io/badge/GSAP-Animation-0AE448?style=for-the-badge"></a>  
+  GSAP is used as the core animation engine to deliver high-performance, scroll-driven visuals. It enables cinematic transitions, smooth timelines, parallax effects, and optimized rendering for a premium user experience.
 
-- Component-based architecture for scalable UI
-- Enables modular development and maintainability
-- Used by top companies like Meta & Netflix
+- <a href="https://greensock.com/scrolltrigger/" target="_blank"><img src="https://img.shields.io/badge/ScrollTrigger-Scroll-black?style=for-the-badge"></a>  
+  ScrollTrigger powers scroll-based interactions by syncing animations with user scroll position. It ensures precise control, smooth execution, and scalable animation timelines.
 
----
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge"></a>  
+  JavaScript manages animation logic, scroll orchestration, and interaction flow — enabling dynamic behavior and scalable architecture for complex UI systems.
 
-🎨 Tailwind CSS
-
-- Utility-first CSS framework
-- Rapid UI development with consistent design system
-- Eliminates CSS bloat & improves performance
-
----
-
-🎥 GSAP (GreenSock Animation Platform)
-
-- Industry-standard animation engine
-- Provides smooth, high-performance animations
-- Used in production by Apple, Google & major brands
-
----
-
-📜 ScrollTrigger
-
-- Advanced scroll-based animation control
-- Enables storytelling UI like Apple product pages
-- Syncs animations perfectly with user scroll
-
----
-
-⚡ Performance Optimization
-
-- Lazy loading of media assets
-- Optimized images & videos
-- Smooth rendering without frame drops
-
----
-
+- <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-UI-38BDF8?style=for-the-badge"></a>  
+  Tailwind CSS is used to build a modern, responsive UI with utility-first styling. It accelerates development, maintains consistency, and ensures lightweight, optimized styling for better performance.
 
 
 🔮 Future Enhancements
