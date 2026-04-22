@@ -1,16 +1,93 @@
-# React + Vite
+<h1 align="center">  MacBook Landing Experience</h1><p align="center">
+  <img src="./public/videos/banner.jpeg" width="100%" />
+</p><p align="center">
+  <b>Apple-level product storytelling with high-performance animations & immersive UI.</b>
+</p><p align="center">
+  🚀 Built for <b>MNC-level Frontend Engineering Standards</b>
+</p>---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧠 About The Project
 
-Currently, two official plugins are available:
+This project is a high-end MacBook landing page experience inspired by Apple's official website.
+The goal is not just design — but to demonstrate real-world frontend engineering skills like:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Performance-focused animations
+- Smooth scroll-based storytelling
+- Scalable component architecture
+- Production-level UI/UX
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Core Features
 
-## Expanding the ESLint configuration
+- 🎯 Scroll-driven storytelling (Apple-style transitions)
+- ⚡ 60fps smooth animations powered by GSAP
+- 🎬 Integrated video sections for product experience
+- 💎 Pixel-perfect premium UI
+- 📱 Fully responsive across all devices
+- 🧩 Clean and reusable component structure
+- 🚀 Optimized asset loading for performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+🌐 Live Demo
+
+<p align="center">
+  <a href="https://your-live-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Live%20Demo-View%20Project-black?style=for-the-badge" />
+  </a>
+</p>
+
+
+🛠️ Tech Stack
+
+⚛️ React.js
+
+- Component-based architecture for scalable UI
+- Enables modular development and maintainability
+- Used by top companies like Meta & Netflix
+
+---
+
+🎨 Tailwind CSS
+
+- Utility-first CSS framework
+- Rapid UI development with consistent design system
+- Eliminates CSS bloat & improves performance
+
+---
+
+🎥 GSAP (GreenSock Animation Platform)
+
+- Industry-standard animation engine
+- Provides smooth, high-performance animations
+- Used in production by Apple, Google & major brands
+
+---
+
+📜 ScrollTrigger
+
+- Advanced scroll-based animation control
+- Enables storytelling UI like Apple product pages
+- Syncs animations perfectly with user scroll
+
+---
+
+⚡ Performance Optimization
+
+- Lazy loading of media assets
+- Optimized images & videos
+- Smooth rendering without frame drops
+
+---
+
+
+
+🔮 Future Enhancements
+
+- 🧊 Three.js based 3D product interaction
+- 🎯 Advanced micro-interactions
+- 🌍 SEO & accessibility improvements
+- 📊 Performance analytics
+
