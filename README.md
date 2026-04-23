@@ -36,11 +36,7 @@ The goal is not just design — but to demonstrate real-world frontend engineeri
 
  <p align="center">
  <a href="https://mackbook-by-nishh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-F5E6C8?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Nishchz/gsap_macbook_landing" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a
 </p> 
 
