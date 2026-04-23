@@ -45,7 +45,7 @@ The goal is not just design — but to demonstrate real-world frontend engineeri
 
 ---
 
-<a href="https://mackbook-by-nishh.vercel.app/" target="_blank">
+<a href="https://gsap.com/" target="_blank">
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=white" />
 </a>
 
