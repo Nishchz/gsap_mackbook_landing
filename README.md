@@ -33,20 +33,19 @@ The goal is not just design — but to demonstrate real-world frontend engineeri
 
 🌐 Live Demo
 
-<p>Comming soon ..</p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://your-live-link.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live%20Demo-View%20Project-black?style=for-the-badge" />
   </a>
-</p> -->
+</p> 
 
 
 ## ⚙️ Tech Stack
 
 ---
 
-<a href="https://greensock.com/gsap/" target="_blank">
+<a href="https://mackbook-by-nishh.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=white" />
 </a>
 
